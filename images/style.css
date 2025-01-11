@@ -138,3 +138,39 @@ nav{
     padding: 10px;
 }
 
+.News-topic{
+    margin: 0 160px;
+}
+
+.news_p1{
+    margin: 0 160px;
+    display: flex;
+    gap: 15px;
+    box-shadow: 0px 6px 50px 0px #cdbabac2;
+    border-radius: 10px;
+    
+}
+.news_p2{
+    margin: 0 160px;
+    display: flex;
+    gap: 15px;
+    box-shadow: 0px 6px 50px 0px #cdbabac2;
+    border-radius: 10px;
+}
+.n2{
+    padding: 20px;
+}
+
+.satelite-pic{
+    padding: 25px;
+
+}
+
+.satelite-pic{
+    border-radius: 10px;
+}
+
+.Donate{
+    margin: 0 160px;
+    text-align: center;
+}

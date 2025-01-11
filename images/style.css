@@ -64,5 +64,17 @@ nav{
     
 }
 .about{
-    margin: 0px 160px;
+    margin: 0px 140px;
+    padding: 20px;
+    
+}
+.piller-container{
+    display: flex;
+    gap: 24px;
+}
+.piller{
+    box-shadow: 0px 6px 50px 0px #cdbabac2;
+    width: 220px;
+    padding: 10px;
+
 }

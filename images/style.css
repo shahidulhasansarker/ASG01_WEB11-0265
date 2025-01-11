@@ -174,3 +174,34 @@ nav{
     margin: 0 160px;
     text-align: center;
 }
+
+.inpt{
+    text-align: center;
+    height: 40px;
+    width: 700px;
+    border: none;
+    box-shadow: 0px 6px 50px 0px #cdbabac2;
+}
+.btntk{
+    background-color: white;
+    height: 50px;
+    width: 100px;
+    border: none;
+    box-shadow: 0px 6px 50px 0px #cdbabac2;
+    border-radius: 8px;
+}
+
+.ext{
+    background-color: #5490F5;
+}
+
+.btntk2{
+    background-color: rgb(15, 64, 199);
+    height: 50px;
+    width: 100px;
+    border: none;
+    box-shadow: 0px 6px 50px 0px #cdbabac2;
+    border-radius: 8px;
+
+
+}
